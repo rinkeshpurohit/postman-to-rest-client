@@ -1,0 +1,12 @@
+{
+  "name": "postman-to-rest-client",
+  "version": "1.0.0",
+  "main": "porter.js",
+  "scripts": {
+    "start": "node porter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
