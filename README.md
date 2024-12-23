@@ -1,6 +1,6 @@
 # postman-to-rest-client
 
-Migration script for Postman to REST client
+Migration script for Postman to VSCode REST client
 
 ## Pre-requisites
 
