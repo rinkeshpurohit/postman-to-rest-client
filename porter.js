@@ -321,7 +321,7 @@ console.log(`
     Env Variables generation START
     ================================================
   `);
-// generateGlobalVariables();
+generateGlobalVariables();
 console.log(`
     ================================================  
     Env Variables generation END
