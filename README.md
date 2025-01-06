@@ -1,6 +1,6 @@
 # Postman to REST Client
 
-Migration script for Postman collections and environment variables to [vacode-rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+Migration script for Postman collections and environment variables to [vscode-rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ## Pre-requisites
 
